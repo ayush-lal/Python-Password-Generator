@@ -12,11 +12,3 @@ for c in range(length):
     password += random.choice(letters)
 
 print(password)
-
-
-# This will prompt the user to enter their preference on password length
-#character_length = input("How long will you like the password to be?")
-
-
-# The print statement will confirm the input result for testing purposes
-#print("Result = ", character_length)
